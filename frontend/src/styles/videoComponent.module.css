@@ -59,3 +59,14 @@
     position: absolute;
     bottom: 0;
 }
+.subtitleOverlay {
+    position: absolute;
+    bottom: 60px;
+    left: 20px;
+    background: rgba(0, 0, 0, 0.6);
+    color: white;
+    padding: 6px 12px;
+    border-radius: 8px;
+    font-size: 18px;
+    max-width: 60%;
+}
