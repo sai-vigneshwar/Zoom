@@ -19,7 +19,7 @@ export default function LandingPage() {
       {/* Navbar */}
       <AppBar position="static" sx={{ backgroundColor: '#1e1e2f' }}>
         <Toolbar sx={{ display: 'flex', justifyContent: 'space-between' }}>
-          <Typography variant="h6">Apna Video Call</Typography>
+          <Typography variant="h6">PopMeet</Typography>
           <Stack direction="row" spacing={2}>
             <Button color="inherit" onClick={() => navigate("/aljk23")}>
               Join as Guest
