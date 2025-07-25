@@ -35,7 +35,7 @@ export default function Authentication() {
         setFormState(0);
       }
     } catch (err) {
-      setError(err?.response?.data?.message || 'Something went wrong');
+      setError(err?.response?.data?.message || 'Something went wrog');
     }
   };
 
